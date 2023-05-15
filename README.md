@@ -17,7 +17,7 @@ Sinta-se à vontade para explorar os projetos, abrir problemas (issues) ou envia
 
 Esses são os dados da minha trajetoria:
 
-[![Leite23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=tokyonight&locale=en)](https://github.com/Leite23)
+[![Leite23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=radical&locale=en)](https://github.com/Leite23)
 
 ***
 
