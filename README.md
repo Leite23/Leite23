@@ -17,7 +17,7 @@ Sinta-se à vontade para explorar os projetos, abrir problemas (issues) ou envia
 
 Esses são os dados da minha trajetoria:
 
-[![CarlosLopes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPegoraro&show_icons=true&theme=tokyonight&locale=en)](https://github.com/CarlosPegoraro)
+[![Leite23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=tokyonight&locale=en)](https://github.com/Leite23)
 
 ***
 
@@ -31,40 +31,19 @@ Esses são os dados da minha trajetoria:
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPegoraro&theme=tokyonight&locale=en)](https://github.com/CarlosPegoraro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=tokyonight&locale=en)](https://github.com/Leite23)
 
 ## __*Repositórios*__ 💾
 
 <div style="display: inline_block">
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/100Days100Codes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=100Days100Codes&theme=tokyonight" />
+<a style="margin: 10px 20px" href="https://github.com/Leite23/JSProjects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=JSProjects&theme=merko" />
 </a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/AppMed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=AppMed&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/horizonbank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=horizonbank&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/CifraHall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=CifraHall&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Blues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Blues&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Cinehub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Cinehub&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Projetos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Projetos&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Cursos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Cursos&theme=tokyonight" />
- </a>
-  
+
+ 
  </div>
 
