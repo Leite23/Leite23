@@ -41,7 +41,7 @@ Esses são os dados da minha trajetoria:
 
 <div style="display: inline_block">
 <a style="margin: 10px 20px" href="https://github.com/Leite23/JSProjects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=JSProjects&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=JSProjects&theme=radical" />
 </a>
 
  
