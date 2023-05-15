@@ -35,7 +35,7 @@ Esses são os dados da minha trajetoria:
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=tokyonight&locale=en)](https://github.com/Leite23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=radical&locale=en)](https://github.com/Leite23)
 
 ## __*Repositórios*__ 💾
 
