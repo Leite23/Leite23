@@ -3,10 +3,6 @@
 
 <br/>
 
-## Sobre Mim 📎
-
-Olá, sou o Gui! Sou um jovem programador apaixonado pela tecnologia e completamente dedicado à arte de programar. Desde que mergulhei nesse mundo fascinante, descobri que a programação vai muito além de linhas de código. É uma forma de expressão, uma maneira de criar soluções inovadoras e de impacto.
-
 Essa é minha trajetoria:
 
 [![Leite23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=radical&locale=en)](https://github.com/Leite23)
