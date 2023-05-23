@@ -33,7 +33,7 @@ Essa é minha trajetoria:
 </a>
   
   <a style="margin: 10px 20px" href=https://github.com/Leite23/Form-React>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Form-Reacts&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Form-React&theme=radical" />
 </a>
   
   
