@@ -31,6 +31,11 @@ Essa é minha trajetoria:
 <a style="margin: 10px 20px" href="https://github.com/Leite23/JSProjects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=JSProjects&theme=radical" />
 </a>
+  
+  <div style="display: inline_block">
+<a style="margin: 10px 20px" href="https://github.com/Leite23//Form-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=JSProjects&theme=radical" />
+</a>
 
  
  </div>
