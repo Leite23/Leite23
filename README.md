@@ -1,15 +1,15 @@
-# 🖥️ *Sejam bem-vindos* 
-> ## Front-End Developer ♾️
+# 🖥️ *Welcome* 
+> ## Front/Back -End Developer ♾️
 
 <br/>
 
-Essa é minha trajetoria:
+My journey:
 
 [![Leite23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=radical&locale=en)](https://github.com/Leite23)
 
 ***
 
-## __*Linguagens*__ ⌨️
+## __*language Codes*__ ⌨️
 
 <div style="display: inline_block"> <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@ Essa é minha trajetoria:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=radical&locale=en)](https://github.com/Leite23)
 
-## __*Repositórios*__ 💾
+## __*Repositories*__ 💾
 
 <div style="display: inline_block">
 <a style="margin: 10px 20px" href="https://github.com/Leite23/JSProjects">
