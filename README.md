@@ -3,7 +3,7 @@
 
 <br/>
 
-My journey:
+*My journey*
 
 [![Leite23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=radical&locale=en)](https://github.com/Leite23)
 
