@@ -1,6 +1,6 @@
 Guilherme Leite - Full Stack developer ♾️
 
-# 🖥️ *Welcome to my GitHub profile! My name is Guilherme Leite and I am a Full Stack developer passionate about creating incredible web solutions. Here you will find an overview of my work and ongoing projects.*
+# 🖥️ *Welcome to my GitHub profile! I am a Full Stack developer passionate about creating incredible web solutions. Here you will find an overview of my work and ongoing projects.*
 ## About Me
 
 - 👨‍💻 Full Stack Developer with experience in Front-end and Back-end.
