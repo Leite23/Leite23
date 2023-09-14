@@ -47,7 +47,7 @@ Guilherme Leite - Full Stack developer ♾️
   
 
 
-## Contato
+## Contact
 
 - 📧 Email: guirolite@gmail.com
 - 💼 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-leite-0147a0248/)
