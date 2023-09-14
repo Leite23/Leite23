@@ -1,13 +1,11 @@
-# 🖥️ *Welcome* 
-> ## Front/Back -End Developer ♾️
+Guilherme Leite - Full Stack developer ♾️
 
-<br/>
+# 🖥️ *Welcome to my GitHub profile! My name is Guilherme Leite and I am a Full Stack developer passionate about creating incredible web solutions. Here you will find an overview of my work and ongoing projects.*
+## About Me
 
-*My journey*
+- 👨‍💻 Full Stack Developer with experience in Front-end and Back-end.
 
-[![Leite23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=radical&locale=en)](https://github.com/Leite23)
 
-***
 
 ## __*Language Codes*__ ⌨️
 
@@ -48,8 +46,13 @@
    </a>
   
 
-  
-  
 
+## Contato
+
+- 📧 Email: guirolite@gmail.com
+- 💼 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-leite-0147a0248/)
+
+
+Feel free to explore my projects and get in touch for interesting collaborations or opportunities. I'm always looking for new challenges and learning something new. Let's build something amazing together!
 
 
