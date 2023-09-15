@@ -45,19 +45,11 @@ Guilherme Leite - Full Stack developer ♾️
 
   </a>
 
-  
-  ##
-
-  <a href="https://www.instagram.com/__leite_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" target="_blank"></a>
-
-
-  
-
-
 
 ## Contact
 
+  <a href="https://www.instagram.com/__leite_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" target="_blank"></a>
 - 📧 Email: guirolite@gmail.com
 - 💼 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-leite-0147a0248/)
 
