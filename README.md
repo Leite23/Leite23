@@ -43,8 +43,16 @@ Guilherme Leite - Full Stack developer ♾️
    <a style="margin: 10px 20px" href="https://github.com/Leite23/Blues">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Blues&theme=radical" />
 
-   </a>
+  </a>
+
+  ##
+<div>
+  <a href="https://www.instagram.com/__leite_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" target="_blank"></a>
+
+
   
+</div>
 
 
 ## Contact
