@@ -48,11 +48,14 @@ Guilherme Leite - Full Stack developer ♾️
 
 ## Contact
 
-  <a href="https://www.instagram.com/__leite_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" target="_blank"></a>
-- 📧 Email: guirolite@gmail.com
-- 💼 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-leite-0147a0248/)
-
+ 
+<div> 
+  <a href="https://instagram.com/__leite_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guiroleite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-leite-0147a0248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 Feel free to explore my projects and get in touch for interesting collaborations or opportunities. I'm always looking for new challenges and learning something new. Let's build something amazing together!
 
