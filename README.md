@@ -22,31 +22,31 @@ Guilherme Leite - Full Stack developer ♾️
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=midnight-purple&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=codeSTACKr&langs_count=8)
 
 <br/>
 
 ## __*GitHub_Stats*__ 💾
-[![Guilherme Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple&locale=en)](https://github.com/Leite23)
+[![Guilherme Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr&locale=en)](https://github.com/Leite23)
 
 ## __*Repositories*__ 💾
 
 <div style="display: inline_block">
 <a style="margin: 10px 20px" href="https://github.com/Leite23/Js-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Js-Project&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Js-Project&theme=codeSTACKr" />
 </a>
   
 <a style="margin: 10px 20px" href="https://github.com/Leite23/Form-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Form-React&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Form-React&theme=codeSTACKr" />
   
 </a>
   
  <div style="display: inline_block">
  <a style="margin: 10px 20px" href="https://github.com/Leite23/User-Home-Form">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=User-Home-Form&theme=midnight-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=User-Home-Form&theme=codeSTACKr" />
    
    <a style="margin: 10px 20px" href="https://github.com/Leite23/Blues">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Blues&theme=midnight-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Blues&theme=codeSTACKr" />
 
   </a>
 
