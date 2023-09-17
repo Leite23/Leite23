@@ -22,12 +22,12 @@ Guilherme Leite - Full Stack developer ♾️
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=gradient&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=radical&langs_count=8)
 
 <br/>
 
 ## __*GitHub_Stats*__ 💾
-[![Guilherme Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&locale=en)](https://github.com/Leite23)
+[![Guilherme Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient&locale=en)](https://github.com/Leite23)
 
 ## __*Repositories*__ 💾
 
