@@ -21,8 +21,9 @@ Guilherme Leite - Full Stack developer ♾️
 </div>
 
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&theme=tokyonight&locale=en)](https://github.com/Leite23)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite123&show_icons=true&theme=transparent)
+[![Guilherme Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=tokyonight&locale=en)](https://github.com/Leite23)
 
 ## __*Repositories*__ 💾
 
