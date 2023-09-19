@@ -32,7 +32,7 @@ Guilherme Leite - Full Stack developer ♾️
 <br/>
 
 ## __*GitHub_Stats*__ 💾
-[![Guilherme Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr&locale=en)](https://github.com/Leite23)
+[![Guilherme Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=codeSTACKr&locale=en)](https://github.com/Leite23)
 
 ## __*Repositories*__ 💾
 
