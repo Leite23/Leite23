@@ -63,6 +63,5 @@
 <div align="center">
 
   <a href="https://instagram.com/__leite_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br/>
-<br/>
   <a href = "mailto:guiroleite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br/>
   <a href="https://www.linkedin.com/in/guilherme-leite-0147a0248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
