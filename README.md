@@ -13,8 +13,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
- ##__*Skills*__ 
- 
+##
+
+## __*Repositories*__ 
  
 <div style="display: inline_block"> <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
