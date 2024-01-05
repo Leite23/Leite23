@@ -46,16 +46,16 @@
 </a>
   
 <a style="margin: 10px 20px" href="https://github.com/Leite23/Form-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Form-React&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Form-React&theme=omni" />
   
 </a>
   
  <div style="display: inline_block">
  <a style="margin: 10px 20px" href="https://github.com/Leite23/User-Home-Form">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=User-Home-Form&theme=codeSTACKr" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=User-Home-Form&theme=omni" />
    
    <a style="margin: 10px 20px" href="https://github.com/Leite23/Blues">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Blues&theme=codeSTACKr" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leite23&repo=Blues&theme=omni" />
 
   </a>
 
