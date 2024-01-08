@@ -13,6 +13,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leite23&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leite23&bg_color=1c1c1c&color=ff0000&line=292929&point=ff2424&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ##
 
 ## __*Skills*__ 
