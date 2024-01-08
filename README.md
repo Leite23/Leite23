@@ -4,6 +4,15 @@
    
 ##
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a95c8d&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e2d793&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Leite;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+
+
+
+
 <div align="center">
    <a href="https://github.com/Leite23">
    <br />
@@ -78,6 +87,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leite23/Leite23/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a95c8d&height=120&section=footer"/>
 
 
  ##
