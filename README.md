@@ -11,7 +11,6 @@
 <div align="center">
    <a href="https://github.com/Leite23">
    <br />
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=Leite23)](https://git.io/streak-stats)
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Leite23&theme=omni&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
       <br />
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Leite23&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
